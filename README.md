@@ -12,7 +12,7 @@
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
-這個儲存庫用來存放CI001的課程作業與文檔
+這個儲存庫用來存放CI001的課程作業與文檔。
 
 ## GitHub Pages Site
 Visit my personal website: [https://kenny20080109.github.io/](https://kenny20080109.github.io/)
